@@ -1,0 +1,621 @@
+listing name,room,confirmation,status,check in,check out,total payout
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HM4SBYCR3N,Review guest,"Mar 31, 2023","Apr 2, 2023",169.83
+Ocean View*Beach Front*Sleep4*Laundry*Room-216,Room-216,HMR32BKRSD,Review guest,"Mar 31, 2023","Apr 2, 2023",119.89
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-207,Room-207,HMBCPT8RKW,Review guest,"Mar 31, 2023","Apr 2, 2023",169.83
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-211,Room-211,HM2A9C3SZ8,Review guest,"Mar 31, 2023","Apr 2, 2023",119.89
+OceanView* BeachFront* scooter* Kitchen*Room-111,Room-111,HMWTJBQ3ZH,Review guest,"Mar 31, 2023","Apr 2, 2023",119.89
+Ocean View*Beach Front*Sleep2*Laundry*Room-117,Room-117,HMBST9TDW5,Review guest,"Mar 31, 2023","Apr 2, 2023",119.89
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-121,Room-121,HMW93XABAD,Review guest,"Mar 31, 2023","Apr 2, 2023",169.83
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HM2ABKW4QN,Review guest,"Mar 31, 2023","Apr 2, 2023",169.36
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-107,Room-107,HMMAPFM3RF,Review guest,"Mar 31, 2023","Apr 2, 2023",173.44
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-202,Room-202,HMCQEY9JCC,Review guest,"Mar 31, 2023","Apr 2, 2023",180.65
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-115,Room-115,HM8PFPAQKA,Review guest,"Mar 31, 2023","Apr 2, 2023",184.26
+OceanView* BeachFront* Scooter* Kitchen* Room-217, Room-217,HM2FXWK898,Review guest,"Mar 31, 2023","Apr 2, 2023",180.00
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-126,Room-126,HMPWH32PMN,Review guest,"Mar 31, 2023","Apr 2, 2023",192.38
+Ocean View*Beach Front*Sleep2*Laundry*Room-112,Room-112,HMKESFBENN,Review guest,"Mar 31, 2023","Apr 2, 2023",180.00
+Beach Front* Scooter* Laundry* WIFI Room-225, WIFI Room-225,HM4PMNWRSE,Review guest,"Mar 30, 2023","Apr 2, 2023",265.00
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HMBAWYTFAT,Review guest,"Mar 31, 2023","Apr 2, 2023",178.85
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-208,Room-208,HM3XFJ3A2C,Trip change sent,"Mar 26, 2023","Apr 2, 2023",512.57
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HM3ATCJCKA,Review guest,"Mar 31, 2023","Apr 2, 2023",237.46
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-218,Room-218,HMMQP3FBQW,Review guest,"Mar 30, 2023","Apr 2, 2023",286.65
+Ocean View*Beach Front*Sleep4*Laundry*Room-214,Room-214,HM25BNK83Z,Review guest,"Mar 30, 2023","Apr 1, 2023",115.43
+Ocean View*Beach Front*Sleep4*Laundry*Room-212,Room-212,HMJT3W9TKP,Review guest,"Mar 30, 2023","Apr 1, 2023",115.82
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HM9WJE3XZS,Review guest,"Mar 31, 2023","Apr 1, 2023",130.95
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HM5KTTYKBE,Review guest,"Mar 29, 2023","Mar 31, 2023",101.36
+OceanView* BeachFront* scooter* Kitchen*Room-111,Room-111,HMJB3TY5ZJ,Review guest,"Mar 29, 2023","Mar 31, 2023",111.16
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-227,Room-227,HMJ2EDB3RW,Review guest,"Mar 29, 2023","Mar 31, 2023",144.04
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-105,Room-105,HMWK83HKKA,Review guest,"Mar 25, 2023","Mar 31, 2023",428.43
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-126,Room-126,HMQRSMWT2Y,Review guest,"Mar 28, 2023","Mar 30, 2023",100.88
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HMWFAF8NPD,Review guest,"Mar 28, 2023","Mar 30, 2023",104.76
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-202,Room-202,HMQFDWAFEK,Review guest,"Mar 28, 2023","Mar 30, 2023",142.43
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HMECAZJKTC,Review guest,"Mar 27, 2023","Mar 29, 2023",97.00
+Beach Front* Scooter* Laundry* WIFI Room-225, WIFI Room-225,HMSHCK5PZD,Review guest,"Mar 27, 2023","Mar 29, 2023",97.00
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-209,Room-209,HM8PAMBW4A,Review guest,"Mar 24, 2023","Mar 29, 2023",373.59
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HMWJFX2999,Review guest,"Mar 23, 2023","Mar 29, 2023",533.19
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-107,Room-107,HMD9KWW99M,Review guest - Expires soon,"Mar 26, 2023","Mar 28, 2023",129.49
+Beach Front* Scooter* WIFI* Laundry* Room-203, Room-203,HMPYX4WXBF,Review guest - Expires soon,"Mar 26, 2023","Mar 28, 2023",97.97
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HM2T5HJ885,Review guest - Expires soon,"Mar 26, 2023","Mar 28, 2023",106.70
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-226,Room-226,HM5YZPF4FK,Review guest - Expires soon,"Mar 26, 2023","Mar 28, 2023",97.97
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HM28W9HBBR,Trip change sent,"Mar 26, 2023","Mar 28, 2023",97.97
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-126,Room-126,HM4QHATCAA,Review guest - Expires soon,"Mar 26, 2023","Mar 28, 2023",97.97
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-123,Room-123,HM9AHJ4RQZ,Review guest - Expires soon,"Mar 26, 2023","Mar 28, 2023",97.97
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HMBCBP9ZAE,Review guest - Expires soon,"Mar 26, 2023","Mar 28, 2023",132.41
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-122,Room-122,HMR5E3YDEP,Review guest - Expires soon,"Mar 26, 2023","Mar 28, 2023",143.38
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-115,Room-115,HMDKAT88K3,Review guest - Expires soon,"Mar 26, 2023","Mar 28, 2023",187.21
+Ocean View*Beach Front*Sleep2*Laundry*Room-117,Room-117,HMWEF2ACE9,Review guest - Expires soon,"Mar 25, 2023","Mar 27, 2023",119.31
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-219,Room-219,HMXSNDTYFR,Review guest - Expires soon,"Mar 25, 2023","Mar 27, 2023",173.88
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-204,Room-204,HMHAZTSC94,Review guest - Expires soon,"Mar 25, 2023","Mar 27, 2023",173.88
+Ocean View*Beach Front*Sleep4*Laundry*Room-216,Room-216,HM5YFCNZTN,Review guest - Expires soon,"Mar 25, 2023","Mar 27, 2023",119.31
+OceanView* BeachFront* scooter* Kitchen*Room-111,Room-111,HMQH322WFE,Review guest - Expires soon,"Mar 25, 2023","Mar 27, 2023",119.31
+Beach Front* Scooter* Laundry* WIFI Room-225, WIFI Room-225,HMEWR3KS5Q,Review guest - Expires soon,"Mar 26, 2023","Mar 27, 2023",101.85
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-110,Room-110,HMBCWPXPBM,Review guest - Expires soon,"Mar 25, 2023","Mar 27, 2023",170.53
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-222,Room-222,HMDY9SZ8MN,Review guest - Expires soon,"Mar 24, 2023","Mar 27, 2023",272.22
+OceanView* BeachFront* Scooter* Kitchen* Room-217, Room-217,HM9QCB5JF2,Review guest - Expires soon,"Mar 25, 2023","Mar 27, 2023",234.35
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-218,Room-218,HM3ARPZRDM,Review guest - Expires soon,"Mar 24, 2023","Mar 26, 2023",205.91
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-123,Room-123,HM5T895TYF,Review guest - Expires soon,"Mar 25, 2023","Mar 26, 2023",69.84
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-211,Room-211,HMZZCSSNDY,Review guest - Expires soon,"Mar 25, 2023","Mar 26, 2023",77.99
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-121,Room-121,HMXXFC8TAW,Review guest - Expires soon,"Mar 25, 2023","Mar 26, 2023",69.84
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-116,Room-116,HM5HZYS3BF,Review guest - Expires soon,"Mar 24, 2023","Mar 26, 2023",178.85
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-220,Room-220,HMQ5ZNQF3B,Review guest - Expires soon,"Mar 24, 2023","Mar 26, 2023",125.13
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-205,Room-205,HMNABQYHSQ,Review guest - Expires soon,"Mar 25, 2023","Mar 26, 2023",69.84
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-221,Room-221,HM34HMDP4J,Review guest - Expires soon,"Mar 25, 2023","Mar 26, 2023",69.84
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-207,Room-207,HMKN9NR5WX,Review guest - Expires soon,"Mar 24, 2023","Mar 26, 2023",178.85
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HMDQD34YD3,Review guest - Expires soon,"Mar 25, 2023","Mar 26, 2023",69.84
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-210,Room-210,HMWYA82A3K,Review guest - Expires soon,"Mar 25, 2023","Mar 26, 2023",77.60
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-227,Room-227,HMNZANSY9A,Review guest - Expires soon,"Mar 24, 2023","Mar 26, 2023",178.85
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-224,Room-224,HMD8RRPCBQ,Review guest - Expires soon,"Mar 24, 2023","Mar 26, 2023",178.85
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HMDC58FJD9,Review guest - Expires soon,"Mar 25, 2023","Mar 26, 2023",69.84
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HMBXZ2495T,Review guest - Expires soon,"Mar 25, 2023","Mar 26, 2023",69.84
+Ocean View*Beach Front*Sleep4*Laundry*Room-212,Room-212,HMCMMRPKJJ,Review guest - Expires soon,"Mar 25, 2023","Mar 26, 2023",77.99
+BeachFront* Scooter* WIFI* Laundry* Room-119, Room-119,HMJD9B2R3B,Review guest - Expires soon,"Mar 24, 2023","Mar 26, 2023",178.85
+Beach Front* Scooter* Laundry* WIFI Room-225, WIFI Room-225,HM4Z5KFHY8,Review guest - Expires soon,"Mar 25, 2023","Mar 26, 2023",110.58
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-115,Room-115,HM88P2AZBR,Review guest - Expires soon,"Mar 25, 2023","Mar 26, 2023",113.49
+Ocean View*Beach Front*Sleep4*Laundry*Room-214,Room-214,HMCM83HESE,Review guest - Expires soon,"Mar 24, 2023","Mar 26, 2023",179.84
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-208,Room-208,HMHQKBPM2Z,Review guest - Expires soon,"Mar 25, 2023","Mar 26, 2023",94.92
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-226,Room-226,HMYSE4QH23,Review guest - Expires soon,"Mar 23, 2023","Mar 26, 2023",270.42
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-122,Room-122,HMBFJACNQY,Review guest - Expires soon,"Mar 24, 2023","Mar 26, 2023",184.26
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HMS9XQBN3C,Review guest - Expires soon,"Mar 24, 2023","Mar 26, 2023",179.84
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-202,Room-202,HMYM2AFFB8,Review guest - Expires soon,"Mar 24, 2023","Mar 26, 2023",184.26
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-126,Room-126,HM953FD8CN,Review guest - Expires soon,"Mar 23, 2023","Mar 26, 2023",271.32
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HMCCYCSZMH,Review guest - Expires soon,"Mar 23, 2023","Mar 26, 2023",295.85
+Ocean View*Beach Front*Sleep2*Laundry*Room-112,Room-112,HMYFDSED2X,Review guest - Expires soon,"Mar 25, 2023","Mar 26, 2023",135.80
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HM2MAYZA4X,Review guest - Expires soon,"Mar 24, 2023","Mar 26, 2023",245.60
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-107,Room-107,HM2KNRHAC3,Review guest - Expires soon,"Mar 24, 2023","Mar 26, 2023",245.60
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-110,Room-110,HM4HNEEB3D,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",64.46
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-120,Room-120,HMCRBNFEDK,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",68.87
+OceanView* BeachFront* scooter* Kitchen*Room-111,Room-111,HMDMX9XK5Q,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",76.82
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-223,Room-223,HMT2CFWYFF,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",68.87
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-123,Room-123,HMJNYJQPTC,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",68.87
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-211,Room-211,HMAKACYFQT,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",76.82
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-121,Room-121,HM2WXH2J84,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",68.87
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HM3NXQ595F,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",68.87
+Ocean View*Beach Front*Sleep4*Laundry*Room-216,Room-216,HMZR9Q3F8N,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",76.82
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-210,Room-210,HMFNHN53XR,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",78.57
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-221,Room-221,HM5ZYXBYKJ,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",70.32
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-205,Room-205,HM4KDMNE5N,Past guest,"Mar 24, 2023","Mar 25, 2023",70.32
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HMFSFCARH5,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",70.32
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HMXAA3YDX8,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",70.32
+OceanView* BeachFront* Scooter* Kitchen* Room-217, Room-217,HM52EMSTRM,Review guest - Expires soon,"Mar 23, 2023","Mar 25, 2023",157.14
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-208,Room-208,HMWPHMTMFP,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",90.94
+Ocean View*Beach Front*Sleep2*Laundry*Room-112,Room-112,HM9QSPM8BH,Review guest - Expires soon,"Mar 23, 2023","Mar 25, 2023",157.14
+Beach Front* Scooter* Laundry* WIFI Room-225, WIFI Room-225,HMRZ9HB8X5,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",70.32
+Beach Front* Scooter* WIFI* Laundry* Room-203, Room-203,HMQB4CDCQD,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",70.32
+Ocean View*Beach Front*Sleep4*Laundry*Room-212,Room-212,HMEAW94QZX,Review guest - Expires soon,"Mar 23, 2023","Mar 25, 2023",114.46
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-105,Room-105,HMR8DKXZKC,Review guest - Expires soon,"Mar 24, 2023","Mar 25, 2023",96.03
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HMDW5YDTZA,Review guest - Expires soon,"Mar 23, 2023","Mar 24, 2023",70.81
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-222,Room-222,HMF4TZZRZH,Review guest - Expires soon,"Mar 22, 2023","Mar 24, 2023",118.82
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HMXD5PHW5A,Review guest - Expires soon,"Mar 23, 2023","Mar 24, 2023",94.57
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HMMTXYQEAQ,Review guest - Expires soon,"Mar 21, 2023","Mar 23, 2023",112.52
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-110,Room-110,HMEXYQY9AY,Trip change sent,"Mar 21, 2023","Mar 23, 2023",151.81
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HM8E8RJKBB,Review guest - Expires soon,"Mar 21, 2023","Mar 23, 2023",233.23
+Ocean View*Beach Front*Sleep2*Laundry*Room-112,Room-112,HM2M54XCBX,Review guest - Expires soon,"Mar 20, 2023","Mar 22, 2023",118.34
+Beach Front* Scooter* Laundry* WIFI Room-225, WIFI Room-225,HMQTY4Z2CX,Review guest - Expires soon,"Mar 20, 2023","Mar 22, 2023",118.34
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-107,Room-107,HMJMTEP5MB,Review guest - Expires soon,"Mar 20, 2023","Mar 21, 2023",72.75
+Ocean View*Beach Front*Sleep4*Laundry*Room-212,Room-212,HMZXKMTAR9,Review guest - Expires soon,"Mar 20, 2023","Mar 21, 2023",72.75
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HME4CFBDA3,Review guest - Expires soon,"Mar 17, 2023","Mar 21, 2023",521.47
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HM94SPBM5R,Past guest,"Mar 16, 2023","Mar 20, 2023",432.33
+BeachFront* Scooter* WIFI* Laundry* Room-119, Room-119,HM4WFE9FBS,Past guest,"Mar 18, 2023","Mar 19, 2023",116.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-224,Room-224,HMSEZ93XYW,Past guest,"Mar 18, 2023","Mar 19, 2023",116.40
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HMMX2AMKYW,Past guest,"Mar 18, 2023","Mar 19, 2023",116.40
+Ocean View*Beach Front*Sleep2*Laundry*Room-112,Room-112,HMS9KSYNCK,Past guest,"Mar 18, 2023","Mar 19, 2023",116.40
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-115,Room-115,HM3XPWZHRF,Past guest,"Mar 18, 2023","Mar 19, 2023",116.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-218,Room-218,HMN94RSKHS,Past guest,"Mar 18, 2023","Mar 19, 2023",116.40
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-202,Room-202,HMTKA39DYQ,Past guest,"Mar 18, 2023","Mar 19, 2023",116.40
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HMHBEN8PA5,Past guest,"Mar 18, 2023","Mar 19, 2023",116.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HMDFTSCB4P,Past guest,"Mar 17, 2023","Mar 19, 2023",203.70
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-210,Room-210,HMD88YW25F,Past guest,"Mar 17, 2023","Mar 19, 2023",203.70
+Beach Front* Scooter* Laundry* WIFI Room-225, WIFI Room-225,HMC2C3BSE9,Past guest,"Mar 17, 2023","Mar 19, 2023",203.70
+OceanView* BeachFront* Scooter* Kitchen* Room-217, Room-217,HMZD25Q9RW,Past guest,"Mar 17, 2023","Mar 19, 2023",203.70
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-121,Room-121,HMKXYWM2QA,Past guest,"Mar 17, 2023","Mar 19, 2023",203.70
+Ocean View*Beach Front*Sleep4*Laundry*Room-214,Room-214,HMJHNFE5QX,Past guest,"Mar 17, 2023","Mar 19, 2023",203.70
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMJWMZKMA2,Past guest,"Mar 17, 2023","Mar 19, 2023",203.70
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-126,Room-126,HM9HNSKR28,Past guest,"Mar 17, 2023","Mar 19, 2023",203.70
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-122,Room-122,HMMMPWDMDT,Past guest,"Mar 18, 2023","Mar 19, 2023",116.40
+Ocean View*Beach Front*Sleep4*Laundry*Room-216,Room-216,HMK4PX5PFA,Past guest,"Mar 17, 2023","Mar 19, 2023",203.70
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-219,Room-219,HMKBD2AN3N,Past guest,"Mar 17, 2023","Mar 19, 2023",203.70
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HMRCZBJSEZ,Past guest,"Mar 17, 2023","Mar 18, 2023",116.40
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HMBSTET8R3,Past guest,"Mar 17, 2023","Mar 18, 2023",116.40
+Beach Front* Scooter* WIFI* Laundry* Room-203, Room-203,HMTEC3XNCP,Past guest,"Mar 17, 2023","Mar 18, 2023",116.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-226,Room-226,HMBMB5R4DJ,Past guest,"Mar 17, 2023","Mar 18, 2023",116.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-218,Room-218,HM82H9E4JT,Past guest,"Mar 17, 2023","Mar 18, 2023",116.40
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HMYFCHRXQ2,Past guest,"Mar 17, 2023","Mar 18, 2023",116.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-107,Room-107,HMEYADDPW4,Past guest,"Mar 17, 2023","Mar 18, 2023",116.40
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HMK88QEWT4,Past guest,"Mar 17, 2023","Mar 18, 2023",116.40
+Ocean View*Beach Front*Sleep2*Laundry*Room-112,Room-112,HMMP42KDHZ,Past guest,"Mar 17, 2023","Mar 18, 2023",116.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-122,Room-122,HMP53NN89Y,Past guest,"Mar 13, 2023","Mar 18, 2023",559.20
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-115,Room-115,HMWDJRFJZX,Past guest,"Mar 12, 2023","Mar 18, 2023",624.68
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-202,Room-202,HMHNBMQDSA,Past guest,"Mar 17, 2023","Mar 18, 2023",145.50
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HMYHFCEP5D,Past guest,"Mar 15, 2023","Mar 17, 2023",174.60
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-208,Room-208,HME3Q2TRAD,Past guest,"Mar 11, 2023","Mar 17, 2023",690.64
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-202,Room-202,HMHHMKFKZ4,Past guest,"Mar 16, 2023","Mar 17, 2023",122.22
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-107,Room-107,HMENST8NR4,Past guest,"Mar 15, 2023","Mar 17, 2023",230.86
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HMB9PQKNXC,Past guest,"Mar 14, 2023","Mar 16, 2023",135.80
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HMJ2MM44N4,Past guest,"Mar 12, 2023","Mar 16, 2023",472.97
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-220,Room-220,HMMX3ZS5F4,Past guest,"Mar 14, 2023","Mar 15, 2023",137.74
+Beach Front* Scooter* WIFI* Laundry* Room-203, Room-203,HMAXBYRY2Q,Past guest,"Mar 13, 2023","Mar 15, 2023",195.94
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-207,Room-207,HMFPNCFK9K,Past guest,"Mar 13, 2023","Mar 15, 2023",174.60
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-116,Room-116,HMT3CXTSE2,Past guest,"Mar 9, 2023","Mar 15, 2023",834.20
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HMMA4C3WSB,Past guest,"Mar 13, 2023","Mar 14, 2023",65.96
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-123,Room-123,HM9XSXA8EM,Past guest,"Mar 13, 2023","Mar 14, 2023",65.96
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-220,Room-220,HM4XX8M5DH,Past guest,"Mar 13, 2023","Mar 14, 2023",65.96
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-211,Room-211,HM32WQCABY,Past guest,"Mar 10, 2023","Mar 14, 2023",833.81
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-226,Room-226,HMFWEH49NH,Past guest,"Mar 9, 2023","Mar 14, 2023",911.12
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-219,Room-219,HMQ2MA3Q9P,Past guest,"Mar 12, 2023","Mar 13, 2023",72.75
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-122,Room-122,HMZY4Y2FFX,Past guest,"Mar 12, 2023","Mar 13, 2023",72.75
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-107,Room-107,HMDNS43XB9,Past guest,"Mar 12, 2023","Mar 13, 2023",72.75
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-220,Room-220,HMPNQB238T,Trip change sent,"Mar 12, 2023","Mar 13, 2023",116.40
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-202,Room-202,HMWYZT4QZX,Past guest,"Mar 12, 2023","Mar 13, 2023",98.94
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-109,Room-109,HMSYWHP5PY,Past guest,"Mar 9, 2023","Mar 13, 2023",581.71
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HMTSDE2MNN,Past guest,"Mar 10, 2023","Mar 13, 2023",670.95
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HMPS5J4QKF,Past guest,"Mar 10, 2023","Mar 13, 2023",670.95
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HMJ3XAAD34,Past guest,"Mar 10, 2023","Mar 12, 2023",247.35
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-120,Room-120,HMTNDJNHAX,Past guest,"Mar 11, 2023","Mar 12, 2023",247.35
+Ocean View*Beach Front*Sleep4*Laundry*Room-216,Room-216,HMTAM5XRDX,Past guest,"Mar 11, 2023","Mar 12, 2023",247.35
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-115,Room-115,HMSYZEASTC,Past guest,"Mar 11, 2023","Mar 12, 2023",247.35
+Beach Front* Scooter* WIFI* Laundry* Room-203, Room-203,HM58MZ4DH5,Past guest,"Mar 9, 2023","Mar 12, 2023",657.42
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-123,Room-123,HMTYTYYBR9,Past guest,"Mar 11, 2023","Mar 12, 2023",247.35
+Ocean View*Beach Front*Sleep2*Laundry*Room-112,Room-112,HMNXSJSWSX,Past guest,"Mar 11, 2023","Mar 12, 2023",261.90
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HMK52E52KM,Past guest,"Mar 11, 2023","Mar 12, 2023",203.70
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-105,Room-105,HM8FRQ9N4K,Past guest,"Mar 10, 2023","Mar 12, 2023",465.60
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-224,Room-224,HMK4BZA24Q,Past guest,"Mar 10, 2023","Mar 12, 2023",435.04
+BeachFront* Scooter* WIFI* Laundry* Room-119, Room-119,HMT9JQQQ9Y,Past guest,"Mar 9, 2023","Mar 12, 2023",589.76
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-205,Room-205,HMF9JXNQPM,Past guest,"Mar 10, 2023","Mar 12, 2023",435.04
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-207,Room-207,HMWA5PEC55,Past guest,"Mar 9, 2023","Mar 12, 2023",589.76
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-209,Room-209,HMNDY3ZKAY,Past guest,"Mar 10, 2023","Mar 12, 2023",435.04
+Ocean View*Beach Front*Sleep4*Laundry*Room-214,Room-214,HMHDCE3RAK,Past guest,"Mar 9, 2023","Mar 12, 2023",533.01
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-126,Room-126,HM2WMJRABT,Past guest,"Mar 6, 2023","Mar 12, 2023",821.10
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-220,Room-220,HMS3ZMTHY9,Past guest,"Mar 11, 2023","Mar 12, 2023",223.10
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMK89BWF2R,Past guest,"Mar 10, 2023","Mar 12, 2023",435.04
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-202,Room-202,HMEYCEJTK4,Past guest,"Mar 8, 2023","Mar 12, 2023",568.47
+Ocean View*Beach Front*Sleep4*Laundry*Room-212,Room-212,HM8MTT2NFJ,Past guest,"Mar 9, 2023","Mar 12, 2023",600.67
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HM98SJZCAY,Past guest,"Mar 9, 2023","Mar 12, 2023",657.66
+OceanView* BeachFront* Scooter* Kitchen* Room-217, Room-217,HMAZS24934,Past guest,"Mar 11, 2023","Mar 12, 2023",174.60
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-221,Room-221,HMS33E34ZT,Past guest,"Mar 5, 2023","Mar 12, 2023","1,238.50"
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-223,Room-223,HMQPAFHP5A,Past guest,"Mar 9, 2023","Mar 12, 2023",792.73
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-219,Room-219,HMW2TE8SWA,Past guest,"Mar 10, 2023","Mar 12, 2023",611.10
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-227,Room-227,HMDK8XTABH,Past guest,"Mar 10, 2023","Mar 12, 2023",611.10
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-210,Room-210,HMC4Q3M4NZ,Past guest,"Mar 11, 2023","Mar 12, 2023",378.30
+Discard-107,Discard-107,HMMFMMWWWE,Past guest,"Mar 10, 2023","Mar 12, 2023",611.10
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-121,Room-121,HMHBBBYENH,Past guest,"Mar 10, 2023","Mar 12, 2023",611.10
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HM8FEKJ3ZB,Past guest,"Mar 10, 2023","Mar 12, 2023",430.68
+OceanView* BeachFront* scooter* Kitchen*Room-111,Room-111,HMQDZBX2PK,Past guest,"Mar 6, 2023","Mar 12, 2023","1,299.80"
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-110,Room-110,HMSHZPAZDB,Past guest,"Mar 6, 2023","Mar 12, 2023","1,299.80"
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-218,Room-218,HM5C3MRHRX,Past guest,"Mar 10, 2023","Mar 12, 2023",514.10
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HMJWK9RTCN,Past guest,"Mar 9, 2023","Mar 12, 2023",654.94
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-222,Room-222,HMQCJNZ5C3,Past guest,"Mar 9, 2023","Mar 12, 2023",654.94
+Discard - 122,Discard - 122,HM2KK8XHZP,Past guest,"Mar 11, 2023","Mar 12, 2023",237.65
+Ocean View*Beach Front*Sleep2*Laundry*Room-117,Room-117,HM5BABKY3R,Past guest,"Mar 9, 2023","Mar 12, 2023",654.94
+Beach Front* Scooter* Laundry* WIFI Room-225, WIFI Room-225,HMN33ZBY84,Past guest,"Mar 9, 2023","Mar 12, 2023",654.94
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-208,Room-208,HM82YH8CMY,Past guest,"Mar 10, 2023","Mar 11, 2023",138.71
+OceanView* BeachFront* Scooter* Kitchen* Room-217, Room-217,HMKBMK5B89,Past guest,"Mar 10, 2023","Mar 11, 2023",138.23
+Ocean View*Beach Front*Sleep2*Laundry*Room-112,Room-112,HMXSWE5482,Past guest,"Mar 10, 2023","Mar 11, 2023",261.90
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HM2Y3P8E4F,Past guest,"Mar 10, 2023","Mar 11, 2023",247.35
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-120,Room-120,HM4FXX98MM,Past guest,"Mar 8, 2023","Mar 11, 2023",469.72
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-115,Room-115,HM59APTWN4,Past guest,"Mar 9, 2023","Mar 11, 2023",377.57
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-210,Room-210,HM3FA5HKBT,Past guest,"Mar 10, 2023","Mar 11, 2023",106.70
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-122,Room-122,HM45MXHF8Z,Past guest,"Mar 9, 2023","Mar 11, 2023",366.08
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-220,Room-220,HMXHTP5HEH,Past guest,"Mar 10, 2023","Mar 11, 2023",320.10
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-123,Room-123,HMZ2TQZNEN,Past guest,"Mar 5, 2023","Mar 11, 2023",985.52
+Ocean View*Beach Front*Sleep4*Laundry*Room-216,Room-216,HMKNT4JCXA,Past guest,"Mar 5, 2023","Mar 11, 2023",985.52
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HMKE84CCFA,Past guest,"Mar 9, 2023","Mar 10, 2023",138.23
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-211,Room-211,HMRQADZFRC,Past guest,"Mar 9, 2023","Mar 10, 2023",77.60
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HMEMHZ39SJ,Past guest,"Mar 9, 2023","Mar 10, 2023",145.50
+OceanView* BeachFront* Scooter* Kitchen* Room-217, Room-217,HMRH5TN9MZ,Past guest,"Mar 8, 2023","Mar 10, 2023",247.35
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-107,Room-107,HM5EMXMJ3A,Past guest,"Mar 8, 2023","Mar 10, 2023",176.54
+Ocean View*Beach Front*Sleep2*Laundry*Room-112,Room-112,HMF8B2D4XK,Past guest,"Mar 9, 2023","Mar 10, 2023",87.30
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-219,Room-219,HMQBYAQFMC,Past guest,"Mar 8, 2023","Mar 10, 2023",247.35
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HM4BYADCBJ,Past guest,"Mar 9, 2023","Mar 10, 2023",101.85
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-220,Room-220,HMHYFREHST,Past guest,"Mar 9, 2023","Mar 10, 2023",126.10
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-210,Room-210,HMQZY822WR,Past guest,"Mar 9, 2023","Mar 10, 2023",174.60
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-227,Room-227,HMDZ5XNMCF,Past guest,"Mar 9, 2023","Mar 10, 2023",126.10
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-121,Room-121,HMPSFZYF5A,Past guest,"Mar 5, 2023","Mar 10, 2023",575.21
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HMCSSAFAQW,Past guest,"Mar 6, 2023","Mar 10, 2023",603.57
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HM4QNSA8H2,Past guest,"Mar 3, 2023","Mar 10, 2023","1,170.21"
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-109,Room-109,HMTYXQJTM2,Past guest,"Mar 8, 2023","Mar 9, 2023",126.10
+Ocean View*Beach Front*Sleep2*Laundry*Room-112,Room-112,HMSYKDS53S,Past guest,"Mar 7, 2023","Mar 9, 2023",184.30
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-207,Room-207,HMEQTHSEDK,Past guest,"Mar 7, 2023","Mar 9, 2023",223.10
+BeachFront* Scooter* WIFI* Laundry* Room-119, Room-119,HMZM28CBFQ,Past guest,"Mar 7, 2023","Mar 9, 2023",140.65
+Ocean View*Beach Front*Sleep2*Laundry*Room-117,Room-117,HMBZHYM8JR,Past guest,"Mar 8, 2023","Mar 9, 2023",72.75
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-115,Room-115,HM55XNWKFA,Past guest,"Mar 8, 2023","Mar 9, 2023",72.75
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HM84DEWK5D,Past guest,"Mar 7, 2023","Mar 9, 2023",135.80
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-122,Room-122,HMCY8MTBWY,Past guest,"Mar 8, 2023","Mar 9, 2023",47.72
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HMYJMHZK4C,Past guest,"Mar 7, 2023","Mar 9, 2023",203.70
+Beach Front* Scooter* Laundry* WIFI Room-225, WIFI Room-225,HMK325WHBP,Past guest,"Mar 6, 2023","Mar 9, 2023",354.15
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-115,Room-115,HMM53ZMPFY,Past guest,"Mar 6, 2023","Mar 8, 2023",172.17
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-226,Room-226,HMM83KTN4S,Past guest,"Mar 6, 2023","Mar 8, 2023",169.75
+Beach Front*Sleep4*WiFi*Security*Laundry*Room-202,Room-202,HM398WYR8A,Past guest,"Mar 6, 2023","Mar 8, 2023",164.90
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMP4TPBW4S,Past guest,"Mar 6, 2023","Mar 7, 2023",97.00
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HMXSKNTNXE,Past guest,"Mar 6, 2023","Mar 7, 2023",63.05
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-223,Room-223,HMT9A48M2T,Past guest,"Mar 6, 2023","Mar 7, 2023",72.75
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-219,Room-219,HMMY28ZCJE,Past guest,"Mar 5, 2023","Mar 7, 2023",177.02
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HMY43M3YDT,Past guest,"Mar 5, 2023","Mar 7, 2023",155.20
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-207,Room-207,HMJRYNFCH5,Past guest,"Mar 5, 2023","Mar 7, 2023",177.02
+BeachFront* Scooter* WIFI* Laundry* Room-119, Room-119,HM3JPBJQY3,Past guest,"Mar 3, 2023","Mar 7, 2023",791.52
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-208,Room-208,HM8SSXFY4A,Past guest,"Mar 5, 2023","Mar 6, 2023",67.90
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-210,Room-210,HMFASD84RA,Past guest,"Mar 5, 2023","Mar 6, 2023",87.30
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-126,Room-126,HM2NH44RHP,Past guest,"Mar 5, 2023","Mar 6, 2023",126.10
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HMK8XJYWYQ,Past guest,"Mar 5, 2023","Mar 6, 2023",75.66
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-224,Room-224,HMYRQPYYZ9,Past guest,"Mar 4, 2023","Mar 6, 2023",392.85
+Discard-107,Discard-107,HMC3PAKHJP,Past guest,"Mar 3, 2023","Mar 6, 2023",417.10
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-120,Room-120,HMDN5RH5C5,Past guest,"Mar 3, 2023","Mar 6, 2023",725.07
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-116,Room-116,HMT5F2YS3Z,Past guest,"Feb 28, 2023","Mar 6, 2023","1,030.62"
+Beach Front* Scooter* Laundry* WIFI Room-225, WIFI Room-225,HMZQCWDYWA,Past guest,"Mar 3, 2023","Mar 6, 2023",770.18
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-227,Room-227,HM9YQDNYB8,Past guest,"Mar 3, 2023","Mar 6, 2023",755.75
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-211,Room-211,HM4XYKFY94,Past guest,"Mar 3, 2023","Mar 6, 2023",654.94
+OceanView* BeachFront* scooter* Kitchen*Room-111,Room-111,HMSWWDSPJB,Past guest,"Mar 4, 2023","Mar 5, 2023",189.15
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-205,Room-205,HME5QFB2HP,Past guest,"Mar 3, 2023","Mar 5, 2023",295.85
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMT25D4JMZ,Past guest,"Mar 3, 2023","Mar 5, 2023",295.85
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-210,Room-210,HMRPJXPW52,Past guest,"Mar 4, 2023","Mar 5, 2023",189.15
+Ocean View*Beach Front*Sleep2*Laundry*Room-117,Room-117,HMQW5FPPSM,Past guest,"Mar 4, 2023","Mar 5, 2023",189.15
+Ocean View*Beach Front*Sleep4*Laundry*Room-216,Room-216,HMHCCD3WFA,Past guest,"Mar 4, 2023","Mar 5, 2023",189.15
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-222,Room-222,HMADNH5SEM,Past guest,"Mar 3, 2023","Mar 5, 2023",295.85
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-126,Room-126,HMP35J4Z95,Past guest,"Mar 3, 2023","Mar 5, 2023",295.85
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-207,Room-207,HMKB2Z2MTQ,Past guest,"Mar 3, 2023","Mar 5, 2023",295.85
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-208,Room-208,HMASHAC3A5,Past guest,"Mar 3, 2023","Mar 5, 2023",295.85
+OceanView* BeachFront* Scooter* Kitchen* Room-217, Room-217,HM3ZDF3JPJ,Past guest,"Mar 3, 2023","Mar 5, 2023",320.10
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-220,Room-220,HMZPFXS9Q8,Past guest,"Mar 3, 2023","Mar 5, 2023",295.85
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-121,Room-121,HMQJMYCC8K,Past guest,"Mar 3, 2023","Mar 5, 2023",295.85
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-123,Room-123,HM45CA53RP,Past guest,"Mar 4, 2023","Mar 5, 2023",150.35
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-209,Room-209,HMDKWYEYHF,Past guest,"Mar 3, 2023","Mar 5, 2023",295.85
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HME5DHNWT8,Past guest,"Mar 3, 2023","Mar 5, 2023",441.35
+Ocean View*Beach Front*Sleep4*Laundry*Room-214,Room-214,HMR2KRTNFE,Past guest,"Mar 4, 2023","Mar 5, 2023",349.20
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-218,Room-218,HM8SQH9FBE,Past guest,"Mar 3, 2023","Mar 5, 2023",392.85
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-109,Room-109,HMPYRQMXTR,Past guest,"Mar 2, 2023","Mar 5, 2023",557.75
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-219,Room-219,HMEDWQJBAQ,Past guest,"Mar 3, 2023","Mar 5, 2023",392.85
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-223,Room-223,HMZSST9ADK,Past guest,"Mar 3, 2023","Mar 5, 2023",514.10
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-221,Room-221,HMAWJTABEP,Past guest,"Mar 3, 2023","Mar 5, 2023",514.10
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-110,Room-110,HMR2AMRF5H,Past guest,"Mar 4, 2023","Mar 5, 2023",349.20
+Beach Front* Scooter* WIFI* Laundry* Room-203, Room-203,HMXP3MYZBR,Past guest,"Mar 2, 2023","Mar 5, 2023",634.87
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-226,Room-226,HMZQ4RSQHZ,Past guest,"Mar 3, 2023","Mar 5, 2023",611.10
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HMFEBRSX88,Past guest,"Mar 4, 2023","Mar 5, 2023",320.10
+Ocean View*Beach Front*Sleep4*Laundry*Room-212,Room-212,HMTTST4JFZ,Past guest,"Mar 4, 2023","Mar 5, 2023",320.10
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HMQZXBC2SC,Past guest,"Mar 3, 2023","Mar 5, 2023",611.10
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HM39892SHT,Past guest,"Mar 4, 2023","Mar 5, 2023",210.49
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HMZPEMBQYK,Past guest,"Mar 3, 2023","Mar 5, 2023",514.10
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HMJQY5FWNM,Past guest,"Mar 4, 2023","Mar 5, 2023",281.30
+Ocean View*Beach Front*Sleep4*Laundry*Room-216,Room-216,HM3X45DAW3,Past guest,"Mar 3, 2023","Mar 4, 2023",203.70
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HM3M5Q8FP3,Past guest,"Mar 3, 2023","Mar 4, 2023",174.60
+Ocean View*Beach Front*Sleep4*Laundry*Room-212,Room-212,HM9X3ZNDNR,Past guest,"Mar 3, 2023","Mar 4, 2023",174.60
+OceanView* BeachFront* scooter* Kitchen*Room-111,Room-111,HMCXPCYP48,Past guest,"Mar 3, 2023","Mar 4, 2023",189.15
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-224,Room-224,HMFHS9HXKF,Past guest,"Feb 25, 2023","Mar 4, 2023",816.74
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-219,Room-219,HMQHZQYQNT,Past guest,"Mar 1, 2023","Mar 3, 2023",126.10
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMAW8PSNJR,Past guest,"Feb 28, 2023","Mar 2, 2023",126.10
+Beach Front* Scooter* WIFI* Laundry* Room-203, Room-203,HMKCB9YZ8S,Past guest,"Feb 28, 2023","Mar 2, 2023",126.10
+Beach Front* Scooter* Laundry* WIFI Room-225, WIFI Room-225,HMQNJ43Y2P,Past guest,"Feb 28, 2023","Mar 2, 2023",126.10
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HM5WNBEMAS,Past guest,"Feb 28, 2023","Mar 2, 2023",126.10
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HMDMTE28Q8,Past guest,"Mar 1, 2023","Mar 2, 2023",106.70
+Ocean View*Beach Front*Sleep4*Laundry*Room-212,Room-212,HM4APTHAT2,Past guest,"Feb 28, 2023","Mar 1, 2023",87.30
+OceanView* BeachFront* scooter* Kitchen*Room-111,Room-111,HM9KFW2TZX,Past guest,"Feb 28, 2023","Mar 1, 2023",87.30
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-219,Room-219,HMCAPFX3NY,Past guest,"Feb 27, 2023","Mar 1, 2023",121.25
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-207,Room-207,HM29FCQCND,Past guest,"Feb 26, 2023","Mar 1, 2023",301.09
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HM9N2DRXZE,Past guest,"Feb 26, 2023","Feb 28, 2023",116.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-109,Room-109,HM8MPMKAE5,Past guest,"Feb 26, 2023","Feb 28, 2023",116.40
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-208,Room-208,HMF83355MX,Past guest,"Feb 26, 2023","Feb 28, 2023",116.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-227,Room-227,HMTF2NQRR8,Past guest,"Feb 26, 2023","Feb 28, 2023",116.40
+Discard - 122,Discard - 122,HMFYCM5SCB,Past guest,"Feb 24, 2023","Feb 28, 2023",369.76
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HMDWFZ4WEX,Past guest,"Feb 22, 2023","Feb 28, 2023",537.38
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-116,Room-116,HMQE99224J,Past guest,"Jan 29, 2023","Feb 28, 2023","3,635.56"
+Ocean View*Beach Front*Sleep4*Laundry*Room-214,Room-214,HM8C2T3DSZ,Past guest,"Feb 26, 2023","Feb 27, 2023",81.48
+Ocean View*Beach Front*Sleep4*Laundry*Room-212,Room-212,HMHAPKXFH9,Past guest,"Feb 26, 2023","Feb 27, 2023",81.48
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HMHMNACPCD,Past guest,"Feb 26, 2023","Feb 27, 2023",81.48
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-211,Room-211,HMMER42Z8D,Past guest,"Feb 26, 2023","Feb 27, 2023",81.48
+BeachFront* Scooter* WIFI* Laundry* Room-119, Room-119,HM9E98JC2H,Past guest,"Feb 25, 2023","Feb 27, 2023",116.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-218,Room-218,HMWXH9BXX3,Past guest,"Feb 25, 2023","Feb 27, 2023",116.40
+Ocean View*Beach Front*Sleep2*Laundry*Room-117,Room-117,HM9YH8FZSW,Past guest,"Feb 26, 2023","Feb 27, 2023",81.48
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-204,Room-204,HMFN33WTP3,Past guest,"Feb 25, 2023","Feb 27, 2023",116.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-209,Room-209,HMFQN3BSHY,Past guest,"Feb 23, 2023","Feb 27, 2023",378.69
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HM3TDS9ZQW,Past guest,"Feb 25, 2023","Feb 27, 2023",203.70
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HMKZ9AZE9E,Past guest,"Feb 25, 2023","Feb 27, 2023",203.70
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-227,Room-227,HMSJDDY4FD,Past guest,"Feb 24, 2023","Feb 26, 2023",126.10
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-208,Room-208,HMHN38RE9B,Past guest,"Feb 24, 2023","Feb 26, 2023",116.40
+Ocean View*Beach Front*Sleep4*Laundry*Room-214,Room-214,HMQSFXQZBJ,Past guest,"Feb 25, 2023","Feb 26, 2023",81.48
+Ocean View*Beach Front*Sleep4*Laundry*Room-216,Room-216,HMPCRENFA2,Past guest,"Feb 25, 2023","Feb 26, 2023",81.48
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-226,Room-226,HMKWE2CJDD,Past guest,"Feb 24, 2023","Feb 26, 2023",126.10
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-211,Room-211,HM8XHSN8J9,Past guest,"Feb 24, 2023","Feb 26, 2023",133.86
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HMYZ52SDY5,Past guest,"Feb 24, 2023","Feb 26, 2023",116.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-207,Room-207,HMT5H9ZK8M,Past guest,"Feb 24, 2023","Feb 26, 2023",116.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-221,Room-221,HMTCQCBCSM,Past guest,"Feb 24, 2023","Feb 26, 2023",116.40
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HMHRY9KFTK,Past guest,"Feb 24, 2023","Feb 26, 2023",116.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-222,Room-222,HMQSPJRBD9,Past guest,"Feb 24, 2023","Feb 26, 2023",126.10
+Discard-107,Discard-107,HMZNXAQ2BJ,Past guest,"Feb 24, 2023","Feb 26, 2023",116.40
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HMBRWADEBS,Past guest,"Feb 25, 2023","Feb 26, 2023",81.48
+Beach Front* Scooter* WIFI* Laundry* Room-203, Room-203,HMXZ2CMAWK,Past guest,"Feb 24, 2023","Feb 26, 2023",116.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-121,Room-121,HMXYHPCP2K,Past guest,"Feb 24, 2023","Feb 26, 2023",116.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-109,Room-109,HMNB8X45DF,Past guest,"Feb 24, 2023","Feb 26, 2023",160.05
+Ocean View*Beach Front*Sleep4*Laundry*Room-212,Room-212,HMEW9CCWFE,Past guest,"Feb 24, 2023","Feb 26, 2023",160.05
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-126,Room-126,HMKKTY9JWH,Past guest,"Feb 24, 2023","Feb 26, 2023",160.05
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMWTP9NH45,Past guest,"Feb 24, 2023","Feb 26, 2023",160.05
+OceanView* BeachFront* scooter* Kitchen*Room-111,Room-111,HMQDEZXM3Q,Past guest,"Feb 24, 2023","Feb 26, 2023",160.05
+Ocean View*Beach Front*Sleep2*Laundry*Room-117,Room-117,HMNKCRB9KD,Past guest,"Feb 24, 2023","Feb 26, 2023",160.05
+Beach Front* Scooter* Laundry* WIFI Room-225, WIFI Room-225,HM4N9MRBAM,Past guest,"Feb 24, 2023","Feb 26, 2023",203.70
+Ocean View*Beach Front*Sleep4*Laundry*Room-216,Room-216,HMJWT5YB3E,Past guest,"Feb 24, 2023","Feb 25, 2023",81.48
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-210,Room-210,HMEPKAYJQ2,Past guest,"Feb 24, 2023","Feb 25, 2023",81.48
+Ocean View*Beach Front*Sleep4*Laundry*Room-214,Room-214,HMWXDQ94CZ,Past guest,"Feb 24, 2023","Feb 25, 2023",81.48
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-218,Room-218,HM4SQC9JYT,Past guest,"Feb 23, 2023","Feb 25, 2023",121.25
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HMZ9PYXNPQ,Past guest,"Feb 23, 2023","Feb 25, 2023",164.90
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HMPXHJMAKN,Past guest,"Feb 22, 2023","Feb 24, 2023",126.10
+Discard-112,Discard-112,HMH8X2EST2,Past guest,"Feb 22, 2023","Feb 24, 2023",126.10
+Beach Front* Scooter* Laundry* WIFI Room-225, WIFI Room-225,HMD3J5P4FD,Past guest,"Feb 22, 2023","Feb 24, 2023",126.10
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HMX39AY2KF,Past guest,"Feb 22, 2023","Feb 24, 2023",152.29
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-221,Room-221,HMH34HC5ED,Past guest,"Feb 19, 2023","Feb 21, 2023",368.60
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-109,Room-109,HMAYP4XP9Y,Past guest,"Feb 18, 2023","Feb 21, 2023",582.78
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HMXFTXTAEF,Past guest,"Feb 18, 2023","Feb 21, 2023",582.78
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-207,Room-207,HMDERT89FH,Past guest,"Feb 16, 2023","Feb 21, 2023",925.38
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMA3FXCPBX,Past guest,"Feb 18, 2023","Feb 21, 2023",582.78
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HMPBAAXF3K,Past guest,"Feb 19, 2023","Feb 20, 2023",148.41
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-226,Room-226,HM8P3C954H,Past guest,"Feb 18, 2023","Feb 20, 2023",514.10
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-208,Room-208,HMW9RYRHDK,Past guest,"Feb 19, 2023","Feb 20, 2023",242.50
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-120,Room-120,HM3D2TDA9T,Past guest,"Feb 16, 2023","Feb 20, 2023",791.52
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HMCJRZ5SMP,Past guest,"Feb 15, 2023","Feb 20, 2023","1,136.84"
+Discard-202,Discard-202,HM2XR2PTTT,Past guest,"Feb 19, 2023","Feb 20, 2023",203.70
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HMS5NSC4YW,Past guest,"Feb 18, 2023","Feb 20, 2023",533.50
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-204,Room-204,HMJYETCQTR,Past guest,"Feb 18, 2023","Feb 20, 2023",436.50
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-220,Room-220,HMHNS3CZTA,Past guest,"Feb 18, 2023","Feb 20, 2023",436.50
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-123,Room-123,HMS3SF2FAE,Past guest,"Feb 17, 2023","Feb 20, 2023",687.19
+BeachFront* Scooter* WIFI* Laundry* Room-119, Room-119,HMJ9PPRJ8D,Past guest,"Feb 17, 2023","Feb 20, 2023",654.94
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-227,Room-227,HMBAHBY3TZ,Past guest,"Feb 17, 2023","Feb 20, 2023",679.97
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-209,Room-209,HM8KHYENZF,Past guest,"Feb 18, 2023","Feb 20, 2023",436.50
+Ocean View*Beach Front*Sleep4*Laundry*Room-216,Room-216,HM82ECP3X8,Past guest,"Feb 16, 2023","Feb 20, 2023",791.52
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-205,Room-205,HMECY4A398,Past guest,"Feb 17, 2023","Feb 20, 2023",654.94
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-224,Room-224,HMZY4KRNXQ,Past guest,"Feb 18, 2023","Feb 20, 2023",436.50
+Ocean View*Beach Front*Sleep4*Laundry*Room-214,Room-214,HMCWHDKWQA,Past guest,"Feb 18, 2023","Feb 20, 2023",436.50
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-126,Room-126,HMPPKZDW93,Past guest,"Feb 18, 2023","Feb 20, 2023",436.50
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-211,Room-211,HMNQFQ2SBF,Past guest,"Feb 16, 2023","Feb 20, 2023",791.52
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-223,Room-223,HMDREF8E5B,Past guest,"Feb 18, 2023","Feb 20, 2023",436.50
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-210,Room-210,HMBHZT8X8Z,Past guest,"Feb 17, 2023","Feb 20, 2023",654.94
+Discard-112,Discard-112,HM8RPEY9Z3,Past guest,"Feb 18, 2023","Feb 20, 2023",436.50
+OceanView* BeachFront* scooter* Kitchen*Room-111,Room-111,HMQCDMKD8W,Past guest,"Feb 17, 2023","Feb 20, 2023",654.94
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-121,Room-121,HM8XFQK2DY,Past guest,"Feb 19, 2023","Feb 20, 2023",203.70
+Discard - 122,Discard - 122,HMPH3N23C3,Past guest,"Feb 19, 2023","Feb 20, 2023",160.05
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HMEJTKW4YS,Past guest,"Feb 16, 2023","Feb 20, 2023",791.52
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-219,Room-219,HMFDFF5DHN,Past guest,"Feb 18, 2023","Feb 20, 2023",436.50
+Ocean View*Beach Front*Sleep2*Laundry*Room-117,Room-117,HMR85QZYDD,Past guest,"Feb 18, 2023","Feb 20, 2023",436.50
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HMJ9593NMJ,Past guest,"Feb 15, 2023","Feb 20, 2023",924.99
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-218,Room-218,HMNQAC2DJA,Past guest,"Feb 17, 2023","Feb 20, 2023",654.94
+Beach Front* Scooter* WIFI* Laundry* Room-203, Room-203,HMSF2HBWZZ,Past guest,"Feb 18, 2023","Feb 20, 2023",436.50
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-222,Room-222,HM9TYNFJQX,Past guest,"Feb 18, 2023","Feb 20, 2023",436.50
+Beach Front* Scooter* Laundry* WIFI Room-225, WIFI Room-225,HMFSF42AJK,Past guest,"Feb 18, 2023","Feb 20, 2023",436.50
+Ocean View*Beach Front*Sleep4*Laundry*Room-212,Room-212,HMQXDHX24T,Past guest,"Feb 18, 2023","Feb 20, 2023",436.50
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-221,Room-221,HMAMPBZEJZ,Past guest,"Feb 18, 2023","Feb 19, 2023",174.60
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HMKXD89EZD,Past guest,"Feb 18, 2023","Feb 19, 2023",155.20
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HMDS5Q5YXJ,Past guest,"Feb 18, 2023","Feb 19, 2023",339.50
+Discard-202,Discard-202,HMB9X4RKEP,Past guest,"Feb 17, 2023","Feb 19, 2023",514.10
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-208,Room-208,HMH29HTDRJ,Past guest,"Feb 18, 2023","Feb 19, 2023",281.30
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-121,Room-121,HMQWHJJ4ED,Past guest,"Feb 17, 2023","Feb 19, 2023",514.10
+Discard - 122,Discard - 122,HMDP4T8FZ3,Past guest,"Feb 18, 2023","Feb 19, 2023",237.65
+Discard-107,Discard-107,HMECREZWBX,Past guest,"Feb 18, 2023","Feb 19, 2023",281.30
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMKXBSC83A,Past guest,"Feb 17, 2023","Feb 18, 2023",174.60
+Beach Front* Scooter* WIFI* Laundry* Room-203, Room-203,HMTWTHRAZC,Past guest,"Feb 17, 2023","Feb 18, 2023",174.60
+Discard - 122,Discard - 122,HM844APYP4,Past guest,"Feb 17, 2023","Feb 18, 2023",174.60
+Ocean View*Beach Front*Sleep4*Laundry*Room-214,Room-214,HMEWXKA4Q8,Past guest,"Feb 17, 2023","Feb 18, 2023",174.60
+Ocean View*Beach Front*Sleep4*Laundry*Room-212,Room-212,HMNZAHQ2BE,Past guest,"Feb 17, 2023","Feb 18, 2023",174.60
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-222,Room-222,HMFJWXQTES,Past guest,"Feb 17, 2023","Feb 18, 2023",174.60
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-209,Room-209,HMK9XT93MR,Past guest,"Feb 17, 2023","Feb 18, 2023",174.60
+Discard-112,Discard-112,HMXAR8R2Y4,Past guest,"Feb 17, 2023","Feb 18, 2023",174.60
+Ocean View*Beach Front*Sleep2*Laundry*Room-117,Room-117,HMZAHE4E8R,Past guest,"Feb 17, 2023","Feb 18, 2023",174.60
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-204,Room-204,HMZEQF8HHZ,Past guest,"Feb 17, 2023","Feb 18, 2023",174.60
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HMME2TPDXD,Past guest,"Feb 17, 2023","Feb 18, 2023",174.60
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-220,Room-220,HMPTSQZJR5,Past guest,"Feb 17, 2023","Feb 18, 2023",174.60
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-208,Room-208,HMKTJH828N,Past guest,"Feb 17, 2023","Feb 18, 2023",174.60
+Discard-107,Discard-107,HMD543Q48R,Past guest,"Feb 17, 2023","Feb 18, 2023",174.60
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-226,Room-226,HM94QTWDQY,Past guest,"Feb 17, 2023","Feb 18, 2023",174.60
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-126,Room-126,HMA8P9XJXX,Past guest,"Feb 17, 2023","Feb 18, 2023",174.60
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-224,Room-224,HM4W3DAXJK,Past guest,"Feb 16, 2023","Feb 18, 2023",237.65
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-109,Room-109,HMQPPMWM9S,Past guest,"Feb 16, 2023","Feb 18, 2023",237.65
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HMFDFHBR92,Past guest,"Feb 16, 2023","Feb 18, 2023",281.30
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HMCTRRJF3Q,Past guest,"Feb 15, 2023","Feb 18, 2023",508.57
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HMYKRXXJE8,Past guest,"Feb 16, 2023","Feb 18, 2023",258.99
+Beach Front* Scooter* Laundry* WIFI Room-225, WIFI Room-225,HMBCHAM58H,Past guest,"Jan 24, 2023","Feb 18, 2023","2,966.65"
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-220,Room-220,HM2BPTFJC5,Past guest,"Feb 16, 2023","Feb 17, 2023",92.15
+Discard-107,Discard-107,HM45MDC4DH,Past guest,"Feb 16, 2023","Feb 17, 2023",92.15
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-121,Room-121,HMSTNPW9Y2,Past guest,"Feb 16, 2023","Feb 17, 2023",92.15
+BeachFront* Scooter* WIFI* Laundry* Room-119, Room-119,HMD9N3A35A,Past guest,"Feb 16, 2023","Feb 17, 2023",92.15
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-204,Room-204,HMJSCF9A5K,Past guest,"Feb 16, 2023","Feb 17, 2023",92.15
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMXZXTMA85,Past guest,"Feb 16, 2023","Feb 17, 2023",92.15
+Ocean View*Beach Front*Sleep2*Laundry*Room-117,Room-117,HMM2YKSCR8,Past guest,"Feb 16, 2023","Feb 17, 2023",92.15
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-227,Room-227,HMT28PCZ8D,Past guest,"Feb 16, 2023","Feb 17, 2023",92.15
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-221,Room-221,HMHTDH8QE5,Past guest,"Feb 16, 2023","Feb 17, 2023",92.15
+Beach Front* Scooter* WIFI* Laundry* Room-203, Room-203,HMPYYMQZ8Z,Past guest,"Feb 15, 2023","Feb 17, 2023",130.95
+Discard-112,Discard-112,HMDXTQKAMH,Past guest,"Feb 16, 2023","Feb 17, 2023",92.15
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-205,Room-205,HMCB8JW9ZP,Past guest,"Feb 15, 2023","Feb 17, 2023",130.95
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HM3DNK5NJN,Past guest,"Feb 16, 2023","Feb 17, 2023",92.15
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-218,Room-218,HMXMJ9PFTM,Past guest,"Feb 16, 2023","Feb 17, 2023",92.15
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-226,Room-226,HMAYSJ44K9,Past guest,"Feb 16, 2023","Feb 17, 2023",92.15
+OceanView* BeachFront* scooter* Kitchen*Room-111,Room-111,HM8EJXFDK2,Past guest,"Feb 15, 2023","Feb 17, 2023",130.95
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-123,Room-123,HM5NJS5AZ3,Past guest,"Feb 15, 2023","Feb 17, 2023",130.95
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-126,Room-126,HMMRQCSBBE,Past guest,"Feb 15, 2023","Feb 17, 2023",194.00
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HMK288XEBC,Past guest,"Feb 15, 2023","Feb 16, 2023",67.90
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMDZ8TWQP8,Past guest,"Feb 15, 2023","Feb 16, 2023",67.90
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-204,Room-204,HMQXFKMPHH,Past guest,"Feb 14, 2023","Feb 16, 2023",106.70
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HMCENS9YRC,Past guest,"Feb 14, 2023","Feb 16, 2023",108.64
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-209,Room-209,HMAWKHRJ8D,Past guest,"Feb 14, 2023","Feb 16, 2023",106.70
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-207,Room-207,HMTRSEWFEN,Past guest,"Feb 14, 2023","Feb 16, 2023",106.70
+Discard-112,Discard-112,HMFD8BJAP8,Past guest,"Feb 14, 2023","Feb 16, 2023",145.50
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HMJCHWNP4C,Past guest,"Feb 14, 2023","Feb 15, 2023",67.90
+Discard - 122,Discard - 122,HMSZ439BNK,Past guest,"Feb 14, 2023","Feb 15, 2023",67.90
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMA9D5JXAB,Past guest,"Feb 14, 2023","Feb 15, 2023",67.90
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HM28KRSWTE,Past guest,"Feb 14, 2023","Feb 15, 2023",67.90
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HM88QZNTFZ,Past guest,"Feb 14, 2023","Feb 15, 2023",67.90
+Discard-107,Discard-107,HMCAHYTMWH,Past guest,"Feb 13, 2023","Feb 15, 2023",106.70
+Ocean View*Beach Front*Sleep4*Laundry*Room-216,Room-216,HM59RTRW94,Past guest,"Feb 9, 2023","Feb 15, 2023",458.81
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-226,Room-226,HMYHJKZAHN,Past guest,"Feb 13, 2023","Feb 14, 2023",67.90
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMFT5XCR3K,Past guest,"Feb 13, 2023","Feb 14, 2023",67.90
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-120,Room-120,HMZRCBBEMW,Past guest,"Feb 13, 2023","Feb 14, 2023",67.41
+Discard-112,Discard-112,HM83F3TSWS,Past guest,"Feb 12, 2023","Feb 14, 2023",106.70
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HM8TY5A54Q,Past guest,"Feb 12, 2023","Feb 14, 2023",106.70
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-208,Room-208,HM8M358AK3,Past guest,"Feb 12, 2023","Feb 14, 2023",106.70
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HMZ2HTCNDS,Past guest,"Feb 12, 2023","Feb 14, 2023",145.50
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-121,Room-121,HMYZXR95QW,Past guest,"Feb 9, 2023","Feb 14, 2023",392.75
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-222,Room-222,HMW8M5X8M5,Past guest,"Feb 11, 2023","Feb 13, 2023",106.70
+Ocean View*Beach Front*Sleep4*Laundry*Room-214,Room-214,HM9W3RQFMQ,Past guest,"Feb 7, 2023","Feb 13, 2023",425.64
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-224,Room-224,HMZ45WZD2M,Past guest,"Feb 11, 2023","Feb 12, 2023",67.90
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-204,Room-204,HMHF3P9ZDB,Past guest,"Feb 11, 2023","Feb 12, 2023",67.90
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HMJ8NSTMSA,Past guest,"Feb 11, 2023","Feb 12, 2023",67.90
+Beach Front* Scooter* WIFI* Laundry* Room-203, Room-203,HMBD59SDH3,Past guest,"Feb 11, 2023","Feb 12, 2023",67.90
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-126,Room-126,HM5XK2EXK8,Past guest,"Feb 11, 2023","Feb 12, 2023",67.90
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HMDSDKP2MD,Past guest,"Feb 11, 2023","Feb 12, 2023",71.78
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-218,Room-218,HM25TMDMQE,Past guest,"Feb 11, 2023","Feb 12, 2023",67.90
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMR4AQ4HTT,Past guest,"Feb 11, 2023","Feb 12, 2023",67.90
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-221,Room-221,HMWC44FEQQ,Past guest,"Feb 10, 2023","Feb 12, 2023",106.70
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-205,Room-205,HMKTNTCHXN,Past guest,"Feb 10, 2023","Feb 12, 2023",91.18
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HMZY58W2W8,Past guest,"Feb 11, 2023","Feb 12, 2023",60.14
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-120,Room-120,HMX8DXHB5D,Past guest,"Feb 10, 2023","Feb 12, 2023",91.18
+Discard-202,Discard-202,HM4ZZA34NB,Past guest,"Feb 10, 2023","Feb 12, 2023",91.18
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-207,Room-207,HMRSBZJHSQ,Past guest,"Feb 10, 2023","Feb 12, 2023",91.18
+BeachFront* Scooter* WIFI* Laundry* Room-119, Room-119,HM3Z4TCM93,Past guest,"Feb 10, 2023","Feb 12, 2023",91.18
+OceanView* BeachFront* scooter* Kitchen*Room-111,Room-111,HMFB5KKRSJ,Past guest,"Feb 10, 2023","Feb 12, 2023",91.18
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-109,Room-109,HMRN9FKFBS,Past guest,"Feb 10, 2023","Feb 12, 2023",91.18
+Discard - 122,Discard - 122,HMB4QSZAM8,Past guest,"Feb 10, 2023","Feb 12, 2023",91.18
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-226,Room-226,HMNZECEEW8,Past guest,"Feb 10, 2023","Feb 12, 2023",91.18
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-209,Room-209,HMBRDJ3SB4,Past guest,"Feb 10, 2023","Feb 12, 2023",91.18
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HM9NAN29MZ,Past guest,"Feb 10, 2023","Feb 12, 2023",91.18
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HMQ2CTW42Z,Past guest,"Feb 10, 2023","Feb 12, 2023",91.18
+Discard-107,Discard-107,HMEYJHYEM2,Past guest,"Feb 10, 2023","Feb 12, 2023",137.74
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-210,Room-210,HMHCNZZN9N,Past guest,"Feb 10, 2023","Feb 12, 2023",137.74
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HMCBXR4ADC,Past guest,"Feb 11, 2023","Feb 12, 2023",106.70
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-211,Room-211,HMJYSJSYCP,Past guest,"Feb 10, 2023","Feb 12, 2023",137.74
+Ocean View*Beach Front*Sleep4*Laundry*Room-212,Room-212,HMXFWX28HS,Past guest,"Feb 9, 2023","Feb 12, 2023",255.98
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-123,Room-123,HMR24JDJED,Past guest,"Feb 9, 2023","Feb 12, 2023",255.98
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-220,Room-220,HMP4W8E5SB,Past guest,"Feb 9, 2023","Feb 12, 2023",255.98
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-227,Room-227,HMSEWW25FT,Past guest,"Feb 10, 2023","Feb 12, 2023",184.30
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HMEFMMNP9A,Past guest,"Feb 10, 2023","Feb 12, 2023",223.10
+Discard-112,Discard-112,HMQ9MXMBKF,Past guest,"Feb 10, 2023","Feb 12, 2023",223.10
+Beach Front* Scooter* WIFI* Laundry* Room-203, Room-203,HM8CM3FH5P,Past guest,"Feb 10, 2023","Feb 11, 2023",60.14
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMDXFECS9T,Past guest,"Feb 10, 2023","Feb 11, 2023",60.14
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-218,Room-218,HMX3QKMHX2,Past guest,"Feb 10, 2023","Feb 11, 2023",60.14
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-204,Room-204,HMMMM59JKR,Past guest,"Feb 10, 2023","Feb 11, 2023",60.14
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HMZWQPXC5K,Past guest,"Feb 10, 2023","Feb 11, 2023",60.14
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-222,Room-222,HMMX9Y2RQA,Past guest,"Feb 10, 2023","Feb 11, 2023",60.14
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HMM8T3C9NC,Past guest,"Feb 10, 2023","Feb 11, 2023",60.14
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HM4ARFSTX9,Past guest,"Feb 10, 2023","Feb 11, 2023",60.14
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HM592APFRF,Past guest,"Feb 9, 2023","Feb 11, 2023",91.57
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-126,Room-126,HMBRPYJFBK,Past guest,"Feb 9, 2023","Feb 11, 2023",194.00
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HM3M95MX8E,Past guest,"Feb 9, 2023","Feb 10, 2023",56.26
+Discard - 122,Discard - 122,HMKYN5CMCB,Past guest,"Feb 9, 2023","Feb 10, 2023",56.26
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HMQ2PZXSNM,Past guest,"Feb 8, 2023","Feb 10, 2023",91.18
+Discard-112,Discard-112,HM4DSJAES8,Past guest,"Feb 9, 2023","Feb 10, 2023",56.26
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HMEJQF82DF,Past guest,"Feb 8, 2023","Feb 10, 2023",91.18
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HMNK8YD2B8,Past guest,"Feb 8, 2023","Feb 10, 2023",91.18
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-209,Room-209,HM89TXQFFZ,Past guest,"Feb 8, 2023","Feb 10, 2023",91.18
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HMSJ5XHMS3,Past guest,"Feb 8, 2023","Feb 9, 2023",58.20
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-211,Room-211,HMQPYYSSYJ,Past guest,"Feb 7, 2023","Feb 9, 2023",95.06
+Discard-107,Discard-107,HMSRPAEDTT,Past guest,"Feb 7, 2023","Feb 8, 2023",60.14
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-227,Room-227,HMWZYNYXSN,Past guest,"Feb 6, 2023","Feb 7, 2023",50.05
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMAJNWXWYJ,Past guest,"Feb 5, 2023","Feb 7, 2023",106.70
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-123,Room-123,HMRRAKZWFZ,Past guest,"Feb 5, 2023","Feb 7, 2023",137.74
+Discard-112,Discard-112,HMBPCN28D4,Past guest,"Feb 5, 2023","Feb 6, 2023",67.90
+Discard - 122,Discard - 122,HMFXB5PSZK,Past guest,"Feb 5, 2023","Feb 6, 2023",67.90
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-220,Room-220,HMK5EW5P3F,Past guest,"Feb 5, 2023","Feb 6, 2023",67.90
+Discard-107,Discard-107,HMKAZXNBRP,Past guest,"Feb 5, 2023","Feb 6, 2023",67.90
+Beach Front* Scooter* WIFI* Laundry* Room-203, Room-203,HMMQ58QHRD,Past guest,"Feb 5, 2023","Feb 6, 2023",67.90
+Ocean View*Beach Front*Sleep4*Laundry*Room-214,Room-214,HMK4WZP9KH,Past guest,"Feb 4, 2023","Feb 6, 2023",118.34
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HMXFNKNWA5,Past guest,"Feb 4, 2023","Feb 6, 2023",118.34
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-209,Room-209,HMR8FTT234,Past guest,"Feb 4, 2023","Feb 6, 2023",118.34
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-219,Room-219,HMX2STSCZN,Past guest,"Feb 4, 2023","Feb 6, 2023",118.34
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HMZKJK8BRZ,Past guest,"Feb 3, 2023","Feb 6, 2023",366.27
+Discard - 122,Discard - 122,HMM4H8ETZZ,Past guest,"Feb 4, 2023","Feb 5, 2023",79.54
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-207,Room-207,HMPBX2C22K,Past guest,"Feb 4, 2023","Feb 5, 2023",79.54
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HMYTDY34P8,Past guest,"Feb 4, 2023","Feb 5, 2023",79.54
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HM2QFDQW4M,Past guest,"Feb 4, 2023","Feb 5, 2023",74.88
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HMH3DBCB3J,Past guest,"Feb 4, 2023","Feb 5, 2023",79.54
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-221,Room-221,HMYK3AMCQM,Past guest,"Feb 4, 2023","Feb 5, 2023",79.54
+Discard-112,Discard-112,HMZAZ5ADKT,Past guest,"Feb 3, 2023","Feb 5, 2023",116.79
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMBC2NKCT3,Past guest,"Feb 3, 2023","Feb 5, 2023",149.38
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-204,Room-204,HM8P89RXJ3,Past guest,"Feb 3, 2023","Feb 5, 2023",129.20
+Discard-107,Discard-107,HMQK2YXWKQ,Past guest,"Feb 3, 2023","Feb 5, 2023",149.38
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-123,Room-123,HME535CC4X,Past guest,"Feb 3, 2023","Feb 5, 2023",189.73
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HMP9T4CN3S,Past guest,"Feb 3, 2023","Feb 4, 2023",83.42
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HM5P444WHA,Past guest,"Feb 3, 2023","Feb 4, 2023",93.12
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-221,Room-221,HMKZ2FBX3J,Past guest,"Feb 3, 2023","Feb 4, 2023",98.94
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-219,Room-219,HMDTPRP4D3,Past guest,"Feb 2, 2023","Feb 4, 2023",122.38
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-207,Room-207,HM5SEEZKSY,Past guest,"Jan 31, 2023","Feb 2, 2023",113.68
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-224,Room-224,HM3JNQPKNQ,Past guest,"Jan 31, 2023","Feb 1, 2023",87.30
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-126,Room-126,HMTKPPX5TB,Past guest,"Jan 27, 2023","Feb 1, 2023",651.35
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-223,Room-223,HM4CKN5RWK,Past guest,"Jan 26, 2023","Feb 1, 2023",601.40
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-221,Room-221,HMEW8FZ4FF,Past guest,"Jan 30, 2023","Jan 31, 2023",79.54
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-224,Room-224,HMRD3DS99R,Past guest,"Jan 30, 2023","Jan 31, 2023",87.30
+BeachFront* Scooter* WIFI* Laundry* Room-119, Room-119,HMB8PDX5TN,Past guest,"Jan 26, 2023","Jan 30, 2023",470.26
+Discard-202,Discard-202,HMR35D5YBM,Past guest,"Jan 26, 2023","Jan 30, 2023",434.56
+Beach Front* Scooter* Sleep4* Kitchen* Room-124, Room-124,HMBWEXQQDA,Past guest,"Jan 25, 2023","Jan 30, 2023",536.41
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-120,Room-120,HM4DZXSKWP,Past guest,"Jan 28, 2023","Jan 29, 2023",141.62
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-204,Room-204,HMB35N3EYX,Past guest,"Jan 28, 2023","Jan 29, 2023",106.70
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HMMBKTX3TX,Past guest,"Jan 28, 2023","Jan 29, 2023",98.16
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-222,Room-222,HM2M4XA5F9,Past guest,"Jan 28, 2023","Jan 29, 2023",95.06
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-205,Room-205,HMKN9XDCEQ,Past guest,"Jan 28, 2023","Jan 29, 2023",164.90
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-226,Room-226,HMAZT5XJBP,Past guest,"Jan 28, 2023","Jan 29, 2023",164.90
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HME5PS2PMN,Past guest,"Jan 27, 2023","Jan 29, 2023",252.20
+Ocean View*Beach Front*Sleep4*Laundry*Room-212,Room-212,HMS98TX9CY,Past guest,"Jan 27, 2023","Jan 29, 2023",211.46
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-221,Room-221,HMAS5Y9DT5,Past guest,"Jan 27, 2023","Jan 29, 2023",211.46
+Beach Front* Scooter* WIFI* Laundry* Room-203, Room-203,HMD9DW3CZK,Past guest,"Jan 27, 2023","Jan 29, 2023",211.46
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-219,Room-219,HM5WCSJQHY,Past guest,"Jan 27, 2023","Jan 29, 2023",281.30
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-210,Room-210,HMATN3AK3H,Past guest,"Jan 28, 2023","Jan 29, 2023",164.90
+Ocean View*Beach Front*Sleep4*Laundry*Room-214,Room-214,HMZZX9D22T,Past guest,"Jan 27, 2023","Jan 29, 2023",281.30
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-208,Room-208,HMYN9FPCJS,Past guest,"Jan 28, 2023","Jan 29, 2023",164.90
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-211,Room-211,HM54N2Q9DC,Past guest,"Jan 28, 2023","Jan 29, 2023",164.90
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-220,Room-220,HMK2A45A2J,Past guest,"Jan 27, 2023","Jan 29, 2023",281.30
+Beach Front*Sleep2*WIFI*Security*Laundry*Room-118,Room-118,HMQJXT3TRK,Past guest,"Jan 27, 2023","Jan 29, 2023",281.30
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-209,Room-209,HM5RY3RNYF,Past guest,"Jan 28, 2023","Jan 29, 2023",164.90
+BeachFront* scooter* Kitchen* Laundry Room-108, Laundry Room-108,HMFQENK2KH,Past guest,"Jan 27, 2023","Jan 29, 2023",281.30
+OceanView* BeachFront* scooter* Kitchen*Room-111,Room-111,HM9CDRPAA5,Past guest,"Jan 26, 2023","Jan 29, 2023",366.27
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HM8NKPX9DK,Past guest,"Jan 28, 2023","Jan 29, 2023",164.90
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-227,Room-227,HMF2J4FPSX,Past guest,"Jan 28, 2023","Jan 29, 2023",164.90
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-116,Room-116,HMNZFME9M3,Past guest,"Jan 28, 2023","Jan 29, 2023",164.90
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HMQQ4C2ZQD,Past guest,"Jan 28, 2023","Jan 29, 2023",164.90
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-224,Room-224,HMYSYN455R,Past guest,"Jan 27, 2023","Jan 29, 2023",281.30
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-123,Room-123,HMA4T4XFEE,Past guest,"Jan 24, 2023","Jan 29, 2023",501.30
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-207,Room-207,HMWYAW5M2D,Past guest,"Jan 27, 2023","Jan 29, 2023",281.30
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HMSEY3ZQRR,Past guest,"Jan 27, 2023","Jan 29, 2023",281.30
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-110,Room-110,HM2ZD3R4JF,Past guest,"Jan 26, 2023","Jan 29, 2023",366.27
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-121,Room-121,HM9CZJDRTY,Past guest,"Jan 27, 2023","Jan 29, 2023",281.30
+Discard-112,Discard-112,HMWPMRAFC4,Past guest,"Jan 27, 2023","Jan 29, 2023",281.30
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-218,Room-218,HM4ASNY3XQ,Past guest,"Jan 27, 2023","Jan 29, 2023",281.30
+Discard-107,Discard-107,HMPPAXSFT3,Past guest,"Jan 27, 2023","Jan 29, 2023",281.30
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-125,Room-125,HMMNNY5DQ3,Past guest,"Jan 27, 2023","Jan 28, 2023",106.70
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-209,Room-209,HM5KSH9KDP,Past guest,"Jan 27, 2023","Jan 28, 2023",106.70
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-226,Room-226,HMDPDYWC5S,Past guest,"Jan 27, 2023","Jan 28, 2023",106.70
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-222,Room-222,HM2QSD8H3E,Past guest,"Jan 26, 2023","Jan 28, 2023",126.10
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-211,Room-211,HM8SBMSXS4,Past guest,"Jan 27, 2023","Jan 28, 2023",95.06
+Discard - 122,Discard - 122,HM4XJSZ2FK,Past guest,"Jan 27, 2023","Jan 28, 2023",106.70
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-204,Room-204,HMKHXY5AFD,Past guest,"Jan 27, 2023","Jan 28, 2023",95.06
+Ocean View*Beach Front*Sleep4*Laundry*Room-216,Room-216,HMKRF2HTWJ,Past guest,"Jan 26, 2023","Jan 28, 2023",126.10
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HMCQATPMD2,Past guest,"Jan 26, 2023","Jan 28, 2023",127.26
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-205,Room-205,HMDAWWTXQS,Past guest,"Jan 26, 2023","Jan 28, 2023",195.94
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-208,Room-208,HMZ49BQWZW,Past guest,"Jan 25, 2023","Jan 28, 2023",330.19
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-210,Room-210,HMM4YWNR8D,Past guest,"Jan 26, 2023","Jan 28, 2023",242.50
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-116,Room-116,HMC92R3D9P,Past guest,"Jan 27, 2023","Jan 28, 2023",164.90
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-109,Room-109,HM8JE3E3Y8,Past guest,"Jan 24, 2023","Jan 28, 2023",398.86
+OceanView*Beach Front*Sleep2*Laundry*Room-215,Room-215,HMDBSXFZS5,Past guest,"Jan 27, 2023","Jan 28, 2023",164.90
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-116,Room-116,HMJFQF5PAE,Past guest,"Jan 26, 2023","Jan 27, 2023",87.30
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-224,Room-224,HM2H829SQJ,Past guest,"Jan 26, 2023","Jan 27, 2023",79.54
+Ocean View*Beach Front*Sleep4*Laundry*Room-214,Room-214,HMS4F45FX2,Past guest,"Jan 26, 2023","Jan 27, 2023",79.54
+Discard-107,Discard-107,HMRWZ525PQ,Past guest,"Jan 25, 2023","Jan 27, 2023",118.34
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-206,Room-206,HM3R2C2ZRY,Past guest,"Jan 25, 2023","Jan 27, 2023",110.58
+Ocean View*Beach Front*Sleep4*Laundry*Room-212,Room-212,HM9P2PMK9Y,Past guest,"Jan 25, 2023","Jan 27, 2023",110.58
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-126,Room-126,HM3HABP8SK,Past guest,"Jan 25, 2023","Jan 26, 2023",87.30
+Discard-112,Discard-112,HMZS8YDJSA,Past guest,"Jan 25, 2023","Jan 26, 2023",79.54
+Beach Front*Sleep4*WIFI*Security*Laundry*Room-205,Room-205,HMSFNPAAZC,Past guest,"Jan 25, 2023","Jan 26, 2023",128.43
+Beach Front*Sleep4*Full Kitchen*Laundry*Room-106,Room-106,HMNQ94QWPM,Past guest,"Jan 24, 2023","Jan 26, 2023",118.34
+Ocean View*Beach Front*Sleep4*Laundry*Room-213,Room-213,HMFRTJPQ2N,Past guest,"Jan 24, 2023","Jan 26, 2023",110.58
+OceanView*BeachFront*Sleep4*Full Kitchen*Room-211,Room-211,HM9B9M3EPA,Past guest,"Jan 24, 2023","Jan 26, 2023",110.58
+Discard - 122,Discard - 122,HMSP2855T9,Past guest,"Jan 24, 2023","Jan 25, 2023",43.65
+Discard - 122,Discard - 122,HMH8ASA4HQ,Past guest,"Jan 23, 2023","Jan 24, 2023",43.65

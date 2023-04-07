@@ -1,0 +1,39 @@
+listing name,room,confirmation,status,check in,check out,total payout
+Scooter*Sleep4*BeachAccess*2KingBeds*Grill*Room117,Room117,HMKYDDC2J3,Trip change sent,"Mar 30, 2023","Apr 3, 2023",423.89
+Scooter*Beachfront*KingBed*Renovated*Grill*Room102,Room102,HM4QJKQJHF,Currently hosting,"Mar 31, 2023","Apr 4, 2023",381.85
+Scooter*Beachfront*KingBed*Renovated*Grill*Room108,Room108,HMZYHXNFS2,Review guest,"Apr 1, 2023","Apr 3, 2023",248.54
+Ocean View*Scooter*Beachfront*Room101,Room101,HMRMSQ3TBT,Review guest,"Apr 1, 2023","Apr 3, 2023",173.03
+3BR2BA*OceanView *BeachAccess*Grill *King*Room-109,Room-109,HM9ASYSXBD,Currently hosting,"Apr 1, 2023","Apr 8, 2023","1,416.20"
+Scooter*Beachfront*KingBed*Renovated*Grill*Room104,Room104,HM9SCHQ234,Currently hosting,"Apr 2, 2023","Apr 6, 2023",407.79
+Scooter*Beachfront*FullBed*Grill*Room107,Room107,HMCPHRF2FZ,Currently hosting,"Apr 3, 2023","Apr 7, 2023",360.53
+Ocean View*Scooter*Beachfront*Room103,Room103,HM24CEEQQN,Currently hosting,"Apr 3, 2023","Apr 8, 2023",464.77
+Scooter*Beachfront*KingBed*Renovated*Grill*Room108,Room108,HMJQRNB9N4,Arriving tomorrow,"Apr 4, 2023","Apr 7, 2023",353.64
+*Beachfront*Scooter*Sleep5*KingBed*Grill*Room-112,Room-112,HMPFY8NFDM,Arriving tomorrow,"Apr 4, 2023","Apr 8, 2023",499.71
+Scooter*Sleep4*BeachAccess*2KingBeds*Grill*Room117,Room117,HM5QHFPHY4,Arriving in 2 days,"Apr 5, 2023","Apr 7, 2023",291.97
+Scooter*BeachAccess*Sleep5*KingBed*Kitchen Room114,Kitchen Room114,HMEXMAMXAP,Arriving in 2 days,"Apr 5, 2023","Apr 8, 2023",604.43
+Scooter*BeachAccess*Sleep5*KingBed*Grill*Room-119,Room-119,HMX92XFEFY,Arriving in 2 days,"Apr 5, 2023","Apr 8, 2023",639.15
+Scooter*Beachfront*KingBed*Renovated*Grill*Room106,Room106,HMMR2RBPY8,Arriving in 2 days,"Apr 5, 2023","Apr 8, 2023",395.14
+Scooter*Beachfront*KingBed*Renovated*Grill*Room102,Room102,HMNZFWANSH,Arriving in 2 days,"Apr 5, 2023","Apr 9, 2023",679.97
+Ocean View*Scooter*Beachfront*Room101,Room101,HMBEP8JPJ9,Arriving in 3 days,"Apr 6, 2023","Apr 8, 2023",239.78
+*BeachAccess*Scooter*Sleep5*KingBed*Grill*Room-118,Room-118,HMBEDAKNRD,Arriving in 3 days,"Apr 6, 2023","Apr 8, 2023",324.91
+Scooter*Beachfront*KingBed*Grill*Room110,Room110,HMJ9B923MS,Arriving in 3 days,"Apr 6, 2023","Apr 9, 2023",361.32
+Scooter*Beachfront*KingBed*Renovated*Grill*Room104,Room104,HMDXWDTT2K,Arriving in 3 days,"Apr 6, 2023","Apr 9, 2023",385.22
+Scooter*Sleep4*BeachAccess*2KingBeds*Grill*Room117,Room117,HM9KCNDT4C,Arriving in 4 days,"Apr 7, 2023","Apr 9, 2023",323.01
+Scooter*Beachfront*FullBed*Grill*Room107,Room107,HM3WAW2AJY,Arriving in 4 days,"Apr 7, 2023","Apr 9, 2023",252.15
+Scooter*Beachfront*KingBed*Renovated*Grill*Room108,Room108,HMM4YH45YP,Arriving in 4 days,"Apr 7, 2023","Apr 9, 2023",280.33
+3BR2BA*OceanView *BeachAccess*Grill *King*Room-109,Room-109,HMCQ4SPHK3,Arriving in 5 days,"Apr 8, 2023","Apr 9, 2023",178.48
+*BeachAccess*Scooter*Sleep5*KingBed*Grill*Room-118,Room-118,HMBKT55M9P,Arriving in 5 days,"Apr 8, 2023","Apr 10, 2023",368.60
+3BR2BA*OceanView *BeachAccess*Grill *King*Room-109,Room-109,HMN3WPA8EJ,Arriving in 6 days,"Apr 9, 2023","Apr 12, 2023",367.63
+Scooter*Beachfront*KingBed*Renovated*Grill*Room106,Room106,HMQ85238DR,Confirmed,"Apr 12, 2023","Apr 17, 2023",487.93
+3BR2BA*OceanView *BeachAccess*Grill *King*Room-109,Room-109,HM8BN34PSZ,Confirmed,"Apr 14, 2023","Apr 16, 2023",272.45
+3BR2BA*OceanView *BeachAccess*Grill *King*Room-109,Room-109,HMEMXNKZDC,Confirmed,"Apr 21, 2023","Apr 23, 2023",368.60
+3BR2BA*OceanView *BeachAccess*Grill *King*Room-109,Room-109,HMSPDRFFMP,Confirmed,"Apr 28, 2023","Apr 30, 2023",618.86
+*BeachAccess*Scooter*Sleep5*KingBed*Grill*Room-118,Room-118,HMKC5HJWK3,Confirmed,"Apr 28, 2023","Apr 30, 2023",385.09
+3BR2BA*OceanView *BeachAccess*Grill *King*Room-109,Room-109,HMNAEKZ9XA,Confirmed,"May 3, 2023","May 8, 2023",497.75
+Discard: DSIS119,Discard: DSIS119,HMP9HWJM5H,Confirmed,"May 15, 2023","May 16, 2023",89.24
+3BR2BA*OceanView *BeachAccess*Grill *King*Room-109,Room-109,HMRPEEEW59,Confirmed,"May 18, 2023","May 22, 2023",934.30
+Scooter*Beachfront*FullBed*Grill*Room107,Room107,HM2DYBFEXF,Confirmed,"May 19, 2023","May 21, 2023",389.84
+3BR2BA*OceanView *BeachAccess*Grill *King*Room-109,Room-109,HMYNWJZDYX,Confirmed,"May 22, 2023","May 29, 2023",779.88
+3BR2BA*OceanView *BeachAccess*Grill *King*Room-109,Room-109,HM5RY29H58,Confirmed,"May 31, 2023","Jun 3, 2023",369.43
+3BR2BA*OceanView *BeachAccess*Grill *King*Room-109,Room-109,HMJQZZJ8TT,Confirmed,"Jun 5, 2023","Jun 9, 2023",464.67
+3BR2BA*OceanView *BeachAccess*Grill *King*Room-109,Room-109,HM854ZHBE2,Confirmed,"Jun 15, 2023","Jun 18, 2023",894.46

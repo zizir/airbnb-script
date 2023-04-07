@@ -1,0 +1,39 @@
+listing name,room,confirmation,status,check in,check out,total payout
+*BeachAccess*Scooter*Sleep5*KingBed*Grill*Room-118,Room-118,HMCE5K4DCM,Canceled by guest,"Apr 15, 2023","Apr 17, 2023",0.00
+Scooter*Beachfront*KingBed*Renovated*Grill*Room104,Room104,HMFFBMDJ5Z,Canceled by guest,"Apr 6, 2023","Apr 9, 2023",0.00
+Scooter*BeachAccess*Sleep5*KingBed*Kitchen Room114,Kitchen Room114,HMT3WRAH2H,Canceled by guest,"Apr 2, 2023","Apr 8, 2023",0.00
+Scooter*BeachAccess*Sleep5*KingBed*Kitchen Room114,Kitchen Room114,HMD4XM453C,Canceled by Airbnb,"Apr 2, 2023","Apr 4, 2023",0.00
+*Beachfront*Scooter*Sleep5*KingBed*Grill*Room-112,Room-112,HMSMJWYNZ3,Canceled by Airbnb,"Mar 27, 2023","Mar 28, 2023",0.00
+3BR2BA*OceanView *BeachAccess*Grill *King*Room-109,Room-109,HMNSQADJPF,Canceled by guest,"Mar 26, 2023","Mar 31, 2023",272.38
+*BeachAccess*Scooter*Sleep5*KingBed*Grill*Room-118,Room-118,HMR92DX5MQ,Canceled by guest,"Mar 19, 2023","Mar 20, 2023",0.00
+Scooter*Beachfront*FullBed*Grill*Room107,Room107,HM2YCQ3QZA,Canceled by guest,"Mar 18, 2023","Mar 19, 2023",0.00
+Scooter*Sleep4*BeachAccess*2KingBeds*Grill*Room117,Room117,HMWHS88ZJZ,Canceled by guest,"Mar 18, 2023","Mar 19, 2023",72.75
+Scooter*Beachfront*KingBed*Renovated*Grill*Room102,Room102,HMJZWRFA4W,Canceled by guest,"Mar 17, 2023","Mar 19, 2023",188.99
+Scooter*BeachAccess*Sleep5*KingBed*Kitchen Room114,Kitchen Room114,HMFQ8SYDZ4,Canceled by guest,"Mar 13, 2023","Mar 16, 2023",244.93
+3BR2BA*OceanView *BeachAccess*Grill *King*Room-109,Room-109,HMCHNEMB22,Canceled by Airbnb,"Mar 12, 2023","Mar 18, 2023",0.00
+3BR2BA*OceanView *BeachAccess*Grill *King*Room-109,Room-109,HMSSAJNFX3,Canceled by Airbnb,"Mar 11, 2023","Mar 12, 2023",0.00
+Scooter*Beachfront*KingBed*Renovated*Grill*Room108,Room108,HMSB9DEYJS,Canceled by guest,"Mar 10, 2023","Mar 14, 2023",0.00
+Scooter*BeachAccess*Sleep5*KingBed*Grill*Room-119,Room-119,HM3BF398ZM,Canceled by guest,"Mar 10, 2023","Mar 12, 2023",0.00
+Scooter*Beachfront*KingBed*Renovated*Grill*Room106,Room106,HMZZZSM8XA,Canceled by guest,"Mar 10, 2023","Mar 12, 2023",0.00
+*Beachfront*Scooter*Sleep5*KingBed*Grill*Room-112,Room-112,HMWZY3AQZC,Canceled by guest,"Mar 9, 2023","Mar 12, 2023",0.00
+Scooter*Beachfront*KingBed*Renovated*Grill*Room102,Room102,HMJSH4HEH2,Canceled by guest,"Mar 7, 2023","Mar 9, 2023",0.00
+Scooter*Sleep4*BeachAccess*2KingBeds*Grill*Room117,Room117,HMK4D5HBDC,Canceled by guest,"Feb 18, 2023","Feb 20, 2023",0.00
+Discard-101,Discard-101,HM9FYAQ83X,Canceled by guest,"Feb 18, 2023","Feb 19, 2023",0.00
+Scooter*BeachAccess*Sleep5*KingBed*Kitchen Room114,Kitchen Room114,HM2YJ2BMRP,Canceled by Airbnb,"Feb 12, 2023","Feb 13, 2023",0.00
+Scooter*BeachAccess*Sleep5*KingBed*Kitchen Room114,Kitchen Room114,HM4N3WZD34,Canceled by Airbnb,"Feb 11, 2023","Feb 12, 2023",0.00
+Scooter*BeachAccess*Sleep5*KingBed*Kitchen Room114,Kitchen Room114,HM25Q5XNC8,Canceled by Airbnb,"Feb 9, 2023","Feb 11, 2023",0.00
+Scooter*BeachAccess*Sleep5*KingBed*Kitchen Room114,Kitchen Room114,HMNQSTQ9NM,Canceled by guest,"Feb 5, 2023","Feb 6, 2023",31.04
+Scooter*Beachfront*KingBed*Renovated*Grill*Room106,Room106,HMNX9BRA2D,Canceled by guest,"Jan 31, 2023","Feb 6, 2023",310.40
+Discard: DSIS119,Discard: DSIS119,HMZCTBD58H,Canceled by guest,"Jan 27, 2023","Jan 28, 2023",126.10
+*Beachfront*Scooter*Sleep5*KingBed*Grill*Room-112,Room-112,HMBW3X2FC3,Canceled by guest,"Jan 18, 2023","Jan 25, 2023",0.00
+Discard: DSIS102,Discard: DSIS102,HMKAE5CDWN,Canceled by guest,"Jan 1, 2023","Jan 2, 2023",0.00
+Scooter*BeachAccess*Sleep5*KingBed*Kitchen Room114,Kitchen Room114,HMW83MYZ5S,Canceled by guest,"Jan 1, 2023","Jan 2, 2023",0.00
+Discard: DSIS102,Discard: DSIS102,HMPAK9R8RE,Canceled by you,"Dec 31, 2022","Jan 1, 2023",62.50
+Scooter*BeachAccess*Sleep5*KingBed*Kitchen Room114,Kitchen Room114,HMXPDHC8DE,Canceled by guest,"Dec 29, 2022","Dec 30, 2022",0.00
+Discard: DSIS119,Discard: DSIS119,HMEDPZMHR2,Canceled by guest,"Dec 25, 2022","Dec 30, 2022",0.00
+Scooter*BeachAccess*Sleep5*KingBed*Kitchen Room114,Kitchen Room114,HMWT2T4JDM,Canceled by guest,"Dec 25, 2022","Dec 26, 2022",0.00
+Discard: DSIS102,Discard: DSIS102,HMXR2Y2CAK,Canceled by guest,"Dec 25, 2022","Dec 26, 2022",0.00
+Discard: DSIS119,Discard: DSIS119,HMXHXMWPSM,Canceled by guest,"Dec 3, 2022","Dec 4, 2022",0.00
+Discard: DSIS119,Discard: DSIS119,HMCZJA8EYS,Canceled by guest,"Nov 30, 2022","Dec 1, 2022",0.00
+Discard: DSIS102,Discard: DSIS102,HM58Y59DSD,Canceled by guest,"Nov 18, 2022","Nov 20, 2022",0.00
+Discard: DSIS102,Discard: DSIS102,HMJPK5FP3J,Canceled by guest,"Aug 17, 2022","Aug 22, 2022",0.00
